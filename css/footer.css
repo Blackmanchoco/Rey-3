@@ -1,0 +1,51 @@
+ footer {
+  background-color: white;
+  padding: 20px;
+  border-top: 1px solid #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 230px; /* Adjusted height */
+}
+
+.logo-pic-f{
+width: 30px;
+height: 30px;
+object-fit: contain;
+}
+
+.footer-left{
+margin-top: 170px; /* Reduced margin */
+display: flex;
+}
+
+p{
+margin-top: 5px;
+}
+
+.copyright{
+margin-top: 5px; /* Adjusted */
+margin-left: 16px;
+font-size: 12px;
+font-weight: 600;
+}
+
+.detail{
+margin-top: 15px;
+}
+
+.footer-right-1{
+margin-left: 800px; /* Reduced margin */
+margin-top: 10px;
+display: flex;
+}
+
+.footer-right-2{
+margin-right: 200px; /* Reduced margin */
+margin-top: 10px;
+}
+
+.detail{  
+color: #474747;
+}
+

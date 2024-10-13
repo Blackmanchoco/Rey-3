@@ -1,0 +1,81 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 10px; 
+}
+
+.register-container{
+  width: 100%;  
+  max-width: 400px; 
+  height: auto;
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.recaptcha{
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.submit-btn{
+  padding: 12px 15px 12px 15px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.15s, opacity 0.15s;
+  cursor: pointer;
+}
+
+.submit-btn:hover{
+  background-color:  #008bff;
+}
+
+.submit-btn:active{
+  opacity: 0.8;
+}
+
+.content {
+  transition: all 0.3s ease;
+}
+
+.requirement-list,
+.requirement-list-2 {
+  text-align: left;
+  padding: 0;
+  padding-left: 20px;
+  list-style: none;
+}
+
+.requirement-list li,
+.requirement-list-2 li {
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.requirement-list i,
+.requirement-list-2 i {
+  margin-right: 8px;
+  color: #777;
+  font-size: 0.2em;
+}
+
+.requirement-list i.fa-check,
+.requirement-list-2 i.fa-check {
+  color: #007bff;
+  font-size: 0.8em;
+}
+
+.error-message{
+  display: flex;
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+

@@ -1,0 +1,112 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding-top: 100px; /* Adjust this value based on your header's height to prevent overlap */
+}
+
+header {
+    background-color: white;
+    padding: 20px 0;
+    position: fixed;
+    top: 0;
+    width: 100%; /* Make the header span the full width */
+    z-index: 1000; /* Ensure the header stays on top */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow for better visibility */
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Adjust to your logo size */
+.logo img {
+    height: 33px; 
+    margin-left: 20px;
+}
+
+nav ul.option {
+    display: flex;
+    list-style-type: none;
+}
+
+nav ul.option li {
+    margin: 0 20px;
+}
+
+nav ul.option li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul.option li a:hover {
+    color: #ff6347; /* Optional hover color */
+}
+
+/* Search bar */
+.fa-container {
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+
+.search-form {
+    display: flex;
+}
+
+.search-input {
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    width: 150px;
+}
+
+.search-btn {
+    padding: 12px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.search-btn i {
+    font-size: 16px;
+}
+
+/* Right-side options */
+ul.right-options {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+
+ul.right-options li {
+    margin-left: 50px;
+}
+
+ul.right-options li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul.right-options li a:hover {
+    color: #ff6347; /* Optional hover color */
+}
+
+ul.right-options li i {
+    font-size: 24px;
+}
