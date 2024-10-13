@@ -5,7 +5,7 @@
   $host = 'localhost';
   $username = 'root';
   $password = '';
-  $dbname = 'merchsystem';
+  $dbname = 'merchsystem1';
 
   try{
     // Create a database connection
