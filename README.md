@@ -45,7 +45,7 @@ Follow these steps to set up Merchsystem on your local machine:
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/yourusername/merchsystem.git  
+   git clone https://github.com/Rey-3/merchsystem.git  
    cd merchsystem  
 
 2. **Install Dependencies**  
@@ -87,8 +87,8 @@ try {
     $mail->isSMTP();  
     $mail->Host       = 'smtp.example.com';  
     $mail->SMTPAuth   = true;  
-    $mail->Username   = 'your-email@example.com';  
-    $mail->Password   = 'your-password';  
+    $mail->Username   = 'your-email@example.com';  //your email name
+    $mail->Password   = 'your-password';  // your email app password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;  
     $mail->Port       = 587;  
 
