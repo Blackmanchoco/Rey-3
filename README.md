@@ -1,4 +1,4 @@
-# ![logo](https://github.com/user-attachments/assets/df63b110-0841-4858-8c37-8975d1ae9f44) Merchsystem  
+# ![logo](https://github.com/user-attachments/assets/df63b110-0841-4858-8c37-8975d1ae9f44 =250x250) Merchsystem  
 
 
 
