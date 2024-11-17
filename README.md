@@ -1,6 +1,3 @@
-Here is the entire README content formatted as a single file. You can directly copy it and paste it into your `README.md` file:  
-
-```markdown
 # 📦 Merchsystem  
 
 Welcome to **Merchsystem** — an e-commerce platform designed to centralize all gaming products, accessories, and plush items in one convenient place. Merchsystem replicates the full functionality of a real-world e-commerce platform, offering users a seamless shopping experience.  
@@ -48,7 +45,6 @@ Follow these steps to set up Merchsystem on your local machine:
    ```bash  
    git clone https://github.com/yourusername/merchsystem.git  
    cd merchsystem  
-   ```  
 
 2. **Install Dependencies**  
    Use Composer to install the required PHP packages, including PHPMailer.  
