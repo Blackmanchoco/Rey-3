@@ -46,7 +46,6 @@ Follow these steps to set up Merchsystem on your local machine:
 1. **Clone the Repository**  
    ```bash  
    git clone https://github.com/Rey-3/merchsystem.git  
-   cd merchsystem  
 
 2. **Install Dependencies**  
    Use Composer to install the required PHP packages, including PHPMailer.  
