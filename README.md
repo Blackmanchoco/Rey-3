@@ -1,4 +1,4 @@
-# ![logo](https://github.com/user-attachments/assets/df63b110-0841-4858-8c37-8975d1ae9f44/favicon.ico) Merchsystem  
+# ![logo](https://github.com/user-attachments/assets/df63b110-0841-4858-8c37-8975d1ae9f44) Merchsystem  
 <img src="https://github.com/favicon.ico" width="18" height="18">
 
 
