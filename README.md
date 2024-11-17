@@ -1,5 +1,7 @@
 # ![logo](https://github.com/user-attachments/assets/df63b110-0841-4858-8c37-8975d1ae9f44) Merchsystem  
-<img src="https://github.com/favicon.ico" width="18">
+<img src="https://github.com/favicon.ico" width="48" height="48">
+
+
 
 Welcome to **Merchsystem** — an e-commerce platform designed to centralize all gaming products, accessories, and plush items in one convenient place. Merchsystem replicates the full functionality of a real-world e-commerce platform, offering users a seamless shopping experience.  
 
