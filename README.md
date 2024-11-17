@@ -123,6 +123,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🌟 Acknowledgments  
 
 Special thanks to the developers and contributors of open-source libraries, especially PHPMailer, for making this project possible!  
-```
 
-This is the final file; you can save it as `README.md` in your repository. Let me know if you need any further changes!
